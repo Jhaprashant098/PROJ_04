@@ -22,7 +22,7 @@ text-align: center;
 <div class="footer">
 <hr>
 <CENTER>
-<h2>&copy; copyrights RAYS Technologies</h2>
+<h2>&copy; copyrights NCS Technologies</h2>
 </CENTER>
 </div>
 
